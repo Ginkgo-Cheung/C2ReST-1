@@ -10,4 +10,5 @@
 
 
 # Data
-Download the data from [datasets](https://drive.google.com/file/d/16xbiRvh5jJx2A4Swv9dEMEz_Y0AEoQTM/view).
+All the datasets involved in the experiment, i.e., Chengdu, Shenzhen, PEMS-BAY and METR-LA, are available online.
+<br />Feel free to download the data from [datasets](https://drive.google.com/file/d/16xbiRvh5jJx2A4Swv9dEMEz_Y0AEoQTM/view).
